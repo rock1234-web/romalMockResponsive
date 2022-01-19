@@ -10,8 +10,6 @@ import { HttpClient, HttpHeaders } from '@angular/common/http';
   styleUrls: ['./main.component.css'],
 })
 export class MainComponent implements OnInit {
-  [x: string]: any;
-  public searchSubscription!: Subscription;
   constructor(private http: HttpClient) {}
 
   ngOnInit(): void {
