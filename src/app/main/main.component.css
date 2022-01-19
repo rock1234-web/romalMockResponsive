@@ -1,0 +1,23 @@
+a:hover{
+    color:#AD66FF;
+}
+.dropdown-background{
+    background-color:  #666BFF;
+   
+}
+.spacer{
+    height: 5vh;
+}
+ .featured-new {
+    position: absolute;
+    top: 15px;
+    right: 15px;
+    padding: 4px 17px;
+    background:  #ffff !important;
+    color:#AD66FF;
+    border-radius: 16px;
+    line-height: 18px;
+  }
+  .image{
+      position: relative;
+  }
